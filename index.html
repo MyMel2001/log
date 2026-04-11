@@ -74,10 +74,15 @@
     <script>
         /** CONFIGURATION: Change these to your repo details **/
         const CONFIG = {
+            title: "Captain's Log",
             owner: 'MyMel2001', // e.g., 'octocat'
             repo: 'log', // e.g., 'Spoon-Knife'
             path: ''                // Root folder or subdirectory (e.g., 'posts')
         };
+
+        document.title = CONFIG.title
+
+        document.getElementById('blog-title').innerText = CONFIG.title
 
         const listEl = document.getElementById('file-list');
         const contentEl = document.getElementById('content-area');
