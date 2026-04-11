@@ -1,2 +1,2 @@
 # Captain's Log
-vada a border cazzo.
+vada a boardo cazzo.
