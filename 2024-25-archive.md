@@ -1,4 +1,4 @@
-# Capitan's Log - The Legacy Archives
+# Captain's Log - The Legacy Archives
 
 ## Nov 3rd 2024 - Hello, welcome to my Gemini log!
 
