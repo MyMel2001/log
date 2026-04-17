@@ -9,4 +9,4 @@
 * Stability is not stagnation. Stability is what makes depth possible.
 * I choose continuity over novelty. I choose flow over control. I choose building over rebuilding.
 * Not everything needs to be improved. Some things only need to be used.
-* If I notice the optimization urge popping up again, the goal isn’t to fight it or “win” against it—just to recognize it early and decide whether it actually serves what I'm doing right now.
+* If I notice the optimization urge popping up again, the goal isn’t to fight it or “win” against it—just to recognize it early and decide whether it actually serves what I do in general.
