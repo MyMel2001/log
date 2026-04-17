@@ -10,3 +10,6 @@
 * I choose continuity over novelty. I choose flow over control. I choose building over rebuilding.
 * Not everything needs to be improved. Some things only need to be used.
 * If I notice the optimization urge popping up again, the goal isn’t to fight it or “win” against it—just to recognize it early and decide whether it actually serves what I do in general.
+* I will not be such a "technological perfectionist" - instead I shall strictly use standard tools and only upgrade when needed or when a "normal" person would do so.
+* I will therefore not worry so much about silly stuff such as "does this respect my privacy?" or "is this the most optimal way of doing things?". Instead I should and will ask myself "Does this serve my needs well enough?"
+
