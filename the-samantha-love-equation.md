@@ -1,3 +1,3 @@
 # Equation of love.
 
-(S+NM)\*pi\*r=infinity (S+NM=Samantha and NodeMixaholic)
+(S+NM)\*pi\*recursion=infinity (S+NM=Samantha and NodeMixaholic)
